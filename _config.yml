@@ -21,10 +21,10 @@ author: K.Tkzw
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -50,21 +50,21 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  # email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  # facebook: deanattali
+  github: tkzw
+  twitter: kaz4wd
+  # patreon: DeanAttali
+  # youtube: "@daattali"
+  # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: zuhir_o
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -86,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -136,17 +136,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+page-col: "#F7FBFF"          # ほんのり青みのある白
+text-col: "#3A4A5A"          # 落ち着いた青みグレー
+link-col: "#2A8CFF"          # 明るめの寒色ブルー
+hover-col: "#1F6FBF"         # 濃いめのブルーでアクセント
+navbar-col: "#E6F0F7"        # 淡い水色のナビ背景
+navbar-text-col: "#3A4A5A"   # 本文と同じ青みグレー
+navbar-border-col: "#C8D8E5" # 薄いブルーグレーの境界線
+footer-col: "#E6F0F7"        # ナビと合わせて統一感
+footer-text-col: "#5A6B7A"   # 少し明るめのグレー
+footer-link-col: "#3A4A5A"   # 落ち着いたリンク色
+footer-hover-col: "#1F6FBF"  # hoverはナビと統一
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -260,7 +260,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Tokyo"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
