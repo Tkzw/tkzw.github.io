@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
+title: わたしについて
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+オーバーフロー工作室へようこそ。
+ガンプラ、ミニ四駆、3Dプリンターと、やりたいことでいっぱいの管理人です。
+色んなことに目移りしてしまうので、過去にやった作業を忘れてしまうことがよくありました。
+なので、自分の備忘録のためにこのブログをはじめました。
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## 何を作ってる？
+### プラモデル
+ガンプラをはじめ、自動車や電車、重機などのプラモデルを作ってます。
 
-What else do you need?
+### ミニ四駆
+速く走るため、いろいろ考えてます・・・。
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### 3Dプリンタ製小物
+日常で役に立つ小物なんかを、FreeCADを使って設計して出力してます。
