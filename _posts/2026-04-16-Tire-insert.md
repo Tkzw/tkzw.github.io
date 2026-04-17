@@ -18,23 +18,23 @@ mathjax: true
 そこで、簡単な治具を３Dプリンタで制作しました。
 すごくシンプルな構造です。
 
-![Crepe](/assets/img/TireJig.png){: .mx-auto.d-block :}
+![Crepe](/assets/img/20260416/TireJig.png){: .mx-auto.d-block :}
 
 少々の工夫として、フィンホイールでも使いやすいように、てっぺんが少しくぼんだ形にしている程度です。
 
 実際に出力したものはこちら。
 
-![Crepe](/assets/img/260416211211592.JPG){: .mx-auto.d-block :}
+![Crepe](/assets/img/20260416/260416211211592.JPG){: .mx-auto.d-block :}
 
 これに、小径タイヤをはめます。
 
-![Crepe](/assets/img/260416211238751.JPG){: .mx-auto.d-block :}
+![Crepe](/assets/img/20260416/260416211238751.JPG){: .mx-auto.d-block :}
 
 先に押し込むほど広がる構造になっています。
 少し力は要りますが、そんなに大変な作業ではありません。
 最後まで押し込めたら、ホイールに当てがってさらに押し込みホイールにはめます。
 
-![Crepe](/assets/img/260416211337155.JPG){: .mx-auto.d-block :}
+![Crepe](/assets/img/20260416/260416211337155.JPG){: .mx-auto.d-block :}
 
 ## 結果
 小径ローハイトのホイールに小径タイヤをはめることができました。
