@@ -171,7 +171,7 @@ footer-hover-col: "#1F6FBF"  # hoverはナビと統一
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-#gtag: "G-XXXXXXXXXX"
+gtag: "G-CYRFR5MZFG"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
